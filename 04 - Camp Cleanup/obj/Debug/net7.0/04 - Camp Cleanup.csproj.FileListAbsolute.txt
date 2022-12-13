@@ -1,0 +1,16 @@
+/Users/t-j/Projects/AoC22/04 - Camp Cleanup/bin/Debug/net7.0/input.txt
+/Users/t-j/Projects/AoC22/04 - Camp Cleanup/bin/Debug/net7.0/04 - Camp Cleanup
+/Users/t-j/Projects/AoC22/04 - Camp Cleanup/bin/Debug/net7.0/04 - Camp Cleanup.deps.json
+/Users/t-j/Projects/AoC22/04 - Camp Cleanup/bin/Debug/net7.0/04 - Camp Cleanup.runtimeconfig.json
+/Users/t-j/Projects/AoC22/04 - Camp Cleanup/bin/Debug/net7.0/04 - Camp Cleanup.dll
+/Users/t-j/Projects/AoC22/04 - Camp Cleanup/bin/Debug/net7.0/04 - Camp Cleanup.pdb
+/Users/t-j/Projects/AoC22/04 - Camp Cleanup/obj/Debug/net7.0/04 - Camp Cleanup.csproj.AssemblyReference.cache
+/Users/t-j/Projects/AoC22/04 - Camp Cleanup/obj/Debug/net7.0/04 - Camp Cleanup.GeneratedMSBuildEditorConfig.editorconfig
+/Users/t-j/Projects/AoC22/04 - Camp Cleanup/obj/Debug/net7.0/04 - Camp Cleanup.AssemblyInfoInputs.cache
+/Users/t-j/Projects/AoC22/04 - Camp Cleanup/obj/Debug/net7.0/04 - Camp Cleanup.AssemblyInfo.cs
+/Users/t-j/Projects/AoC22/04 - Camp Cleanup/obj/Debug/net7.0/04 - Camp Cleanup.csproj.CoreCompileInputs.cache
+/Users/t-j/Projects/AoC22/04 - Camp Cleanup/obj/Debug/net7.0/04 - Camp Cleanup.dll
+/Users/t-j/Projects/AoC22/04 - Camp Cleanup/obj/Debug/net7.0/refint/04 - Camp Cleanup.dll
+/Users/t-j/Projects/AoC22/04 - Camp Cleanup/obj/Debug/net7.0/04 - Camp Cleanup.pdb
+/Users/t-j/Projects/AoC22/04 - Camp Cleanup/obj/Debug/net7.0/04 - Camp Cleanup.genruntimeconfig.cache
+/Users/t-j/Projects/AoC22/04 - Camp Cleanup/obj/Debug/net7.0/ref/04 - Camp Cleanup.dll

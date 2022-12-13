@@ -1,0 +1,16 @@
+/Users/t-j/Projects/AoC22/03 - Rucksack Reorganisation/bin/Debug/net7.0/03 - Rucksack Reorganisation
+/Users/t-j/Projects/AoC22/03 - Rucksack Reorganisation/bin/Debug/net7.0/03 - Rucksack Reorganisation.deps.json
+/Users/t-j/Projects/AoC22/03 - Rucksack Reorganisation/bin/Debug/net7.0/03 - Rucksack Reorganisation.runtimeconfig.json
+/Users/t-j/Projects/AoC22/03 - Rucksack Reorganisation/bin/Debug/net7.0/03 - Rucksack Reorganisation.dll
+/Users/t-j/Projects/AoC22/03 - Rucksack Reorganisation/bin/Debug/net7.0/03 - Rucksack Reorganisation.pdb
+/Users/t-j/Projects/AoC22/03 - Rucksack Reorganisation/obj/Debug/net7.0/03 - Rucksack Reorganisation.csproj.AssemblyReference.cache
+/Users/t-j/Projects/AoC22/03 - Rucksack Reorganisation/obj/Debug/net7.0/03 - Rucksack Reorganisation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/t-j/Projects/AoC22/03 - Rucksack Reorganisation/obj/Debug/net7.0/03 - Rucksack Reorganisation.AssemblyInfoInputs.cache
+/Users/t-j/Projects/AoC22/03 - Rucksack Reorganisation/obj/Debug/net7.0/03 - Rucksack Reorganisation.AssemblyInfo.cs
+/Users/t-j/Projects/AoC22/03 - Rucksack Reorganisation/obj/Debug/net7.0/03 - Rucksack Reorganisation.csproj.CoreCompileInputs.cache
+/Users/t-j/Projects/AoC22/03 - Rucksack Reorganisation/obj/Debug/net7.0/03 - Rucksack Reorganisation.dll
+/Users/t-j/Projects/AoC22/03 - Rucksack Reorganisation/obj/Debug/net7.0/refint/03 - Rucksack Reorganisation.dll
+/Users/t-j/Projects/AoC22/03 - Rucksack Reorganisation/obj/Debug/net7.0/03 - Rucksack Reorganisation.pdb
+/Users/t-j/Projects/AoC22/03 - Rucksack Reorganisation/obj/Debug/net7.0/03 - Rucksack Reorganisation.genruntimeconfig.cache
+/Users/t-j/Projects/AoC22/03 - Rucksack Reorganisation/obj/Debug/net7.0/ref/03 - Rucksack Reorganisation.dll
+/Users/t-j/Projects/AoC22/03 - Rucksack Reorganisation/bin/Debug/net7.0/input.txt

@@ -1,0 +1,16 @@
+/Users/t-j/Projects/AoC22/02 - RockPaperScissors/bin/Debug/net7.0/input.txt
+/Users/t-j/Projects/AoC22/02 - RockPaperScissors/bin/Debug/net7.0/02 - RockPaperScissors
+/Users/t-j/Projects/AoC22/02 - RockPaperScissors/bin/Debug/net7.0/02 - RockPaperScissors.deps.json
+/Users/t-j/Projects/AoC22/02 - RockPaperScissors/bin/Debug/net7.0/02 - RockPaperScissors.runtimeconfig.json
+/Users/t-j/Projects/AoC22/02 - RockPaperScissors/bin/Debug/net7.0/02 - RockPaperScissors.dll
+/Users/t-j/Projects/AoC22/02 - RockPaperScissors/bin/Debug/net7.0/02 - RockPaperScissors.pdb
+/Users/t-j/Projects/AoC22/02 - RockPaperScissors/obj/Debug/net7.0/02 - RockPaperScissors.csproj.AssemblyReference.cache
+/Users/t-j/Projects/AoC22/02 - RockPaperScissors/obj/Debug/net7.0/02 - RockPaperScissors.GeneratedMSBuildEditorConfig.editorconfig
+/Users/t-j/Projects/AoC22/02 - RockPaperScissors/obj/Debug/net7.0/02 - RockPaperScissors.AssemblyInfoInputs.cache
+/Users/t-j/Projects/AoC22/02 - RockPaperScissors/obj/Debug/net7.0/02 - RockPaperScissors.AssemblyInfo.cs
+/Users/t-j/Projects/AoC22/02 - RockPaperScissors/obj/Debug/net7.0/02 - RockPaperScissors.csproj.CoreCompileInputs.cache
+/Users/t-j/Projects/AoC22/02 - RockPaperScissors/obj/Debug/net7.0/02 - RockPaperScissors.dll
+/Users/t-j/Projects/AoC22/02 - RockPaperScissors/obj/Debug/net7.0/refint/02 - RockPaperScissors.dll
+/Users/t-j/Projects/AoC22/02 - RockPaperScissors/obj/Debug/net7.0/02 - RockPaperScissors.pdb
+/Users/t-j/Projects/AoC22/02 - RockPaperScissors/obj/Debug/net7.0/02 - RockPaperScissors.genruntimeconfig.cache
+/Users/t-j/Projects/AoC22/02 - RockPaperScissors/obj/Debug/net7.0/ref/02 - RockPaperScissors.dll
