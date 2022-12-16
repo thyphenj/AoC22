@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 25.0.1704.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01 - Calorie Counting", "AoC22\01 - Calorie Counting.csproj", "{66FDBAC6-933C-4FF7-8698-231F1D418ABA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01 - Calorie Counting", "01 - Calorie Counting\01 - Calorie Counting.csproj", "{66FDBAC6-933C-4FF7-8698-231F1D418ABA}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02 - RockPaperScissors", "02 - RockPaperScissors\02 - RockPaperScissors.csproj", "{6969A07B-ED0B-4880-A83E-8194C60E2230}"
 EndProject
@@ -12,6 +12,10 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04 - Camp Cleanup", "04 - Camp Cleanup\04 - Camp Cleanup.csproj", "{90F00090-941D-4597-A2A9-1256E872857C}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05 - Supple Stacks", "05 - Supple Stacks\05 - Supple Stacks.csproj", "{F63530B4-97FC-4415-9001-1292B5C76178}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06 - Tuning Trouble", "06 - Tuning Trouble\06 - Tuning Trouble.csproj", "{AF0CB738-86B2-4F70-B5F5-23C572EE0C59}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07 - No Space Left On Device", "07 - No Space Left On Device\07 - No Space Left On Device.csproj", "{5ADCFB92-145A-430E-A193-85FB4B9A5F60}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +43,14 @@ Global
 		{F63530B4-97FC-4415-9001-1292B5C76178}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F63530B4-97FC-4415-9001-1292B5C76178}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F63530B4-97FC-4415-9001-1292B5C76178}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF0CB738-86B2-4F70-B5F5-23C572EE0C59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF0CB738-86B2-4F70-B5F5-23C572EE0C59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF0CB738-86B2-4F70-B5F5-23C572EE0C59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF0CB738-86B2-4F70-B5F5-23C572EE0C59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5ADCFB92-145A-430E-A193-85FB4B9A5F60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5ADCFB92-145A-430E-A193-85FB4B9A5F60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5ADCFB92-145A-430E-A193-85FB4B9A5F60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5ADCFB92-145A-430E-A193-85FB4B9A5F60}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
